@@ -1,0 +1,20 @@
+Objective:
+To advance the fields of security and threat detection by developing a robust system for face recognition and emotion detection
+
+
+Results:
+To demonstrate the model's capabilities, we applied it to a few sample images:
+
+Sample Image 1: Predicted emotion - Sad.
+Sample Image 2: Predicted emotion - Fear.
+Sample Image 3: Predicted emotion - Disgust.
+Sample Image 4: Predicted emotion - Happy.
+Sample Image 5: Predicted emotion - Surprise.
+
+These predictions were visualized using Matplotlib, displaying the original images alongside the model's predictions. 
+The model showed high accuracy in recognizing various emotions, illustrating its effectiveness for face recognition and emotion detection tasks.
+
+
+Conclusion:
+The successful application of our model to these test images highlights its potential for real-world use cases,
+such as enhancing security systems and improving human-computer interaction through emotion-aware applications.
